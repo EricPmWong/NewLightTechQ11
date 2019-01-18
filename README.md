@@ -14,10 +14,12 @@ Contributors: Linnea Miller, Aidan Keyes, Mohammed Faysal, Eric Wong
 4. BLS Graphs (https://ericpmwong.github.io/)
 5. BLS Data (https://github.com/EricPmWong/NewLightTechQ11/tree/master/BLS-Data)
 4. Glassdoor Scraper (https://github.com/EricPmWong/NewLightTechQ11/blob/master/glassdoor_scrape/scrape.ipynb)
-5. SARIMA model 
-6. Industry Concat code (https://github.com/EricPmWong/NewLightTechQ11/blob/master/IndustryConcatScript.ipynb)
-7. Industry by Disaster Data (https://github.com/EricPmWong/NewLightTechQ11/tree/master/Disaster-Industry-Data)
-8. Team peer reviews (Sent via Slack)
+5. SARIMA models Harvey+Irma (https://github.com/EricPmWong/NewLightTechQ11/blob/master/SARIMA-Harvey%2BIRMA.ipynb)
+6. SARIMA model - Katrina (https://github.com/EricPmWong/NewLightTechQ11/blob/master/SARIMA-Katrina.ipynb)
+7. SARIMA model - Sandy (https://github.com/EricPmWong/NewLightTechQ11/blob/master/SARIMA-Sandy.ipynb)
+8. Industry Concat code (https://github.com/EricPmWong/NewLightTechQ11/blob/master/IndustryConcatScript.ipynb)
+9. Industry by Disaster Data (https://github.com/EricPmWong/NewLightTechQ11/tree/master/Disaster-Industry-Data)
+10. Team peer reviews (Sent via Slack)
 ---
 
 ### 3rd Party sites/tools:
