@@ -87,7 +87,7 @@ Contributors: Linnea Miller, Aidan Keyes, Mohammed Faysal, Eric Wong
 - **information_mining_aggr_value** - Employment and Wage combined (multiplied)
 - **financial_activities_all_employees** - Employment Figures
 - **financial_activities_avg_monthly_pay** - Avg industry wage per month
-- **nfinancial_activities_aggr_value** - Employment and Wage combined (multiplied)
+- **financial_activities_aggr_value** - Employment and Wage combined (multiplied)
 - **professional_business_services_all_employees** - Employment Figures
 - **professional_business_services_avg_monthly_pay** - Avg industry wage per month
 - **professional_business_services_aggr_value** - Employment and Wage combined (multiplied)
@@ -96,7 +96,7 @@ Contributors: Linnea Miller, Aidan Keyes, Mohammed Faysal, Eric Wong
 - **education_health_services_aggr_value** - Employment and Wage combined (multiplied)
 - **leisure_hospitality_all_employees** - Employment Figures
 - **leisure_hospitality_avg_monthly_pay** - Avg industry wage per month
-- **nleisure_hospitality_aggr_value** - Employment and Wage combined (multiplied)
+- **leisure_hospitality_aggr_value** - Employment and Wage combined (multiplied)
 - **other_services_all_employees** - Employment Figures
 - **other_services_avg_monthly_pay** - Avg industry wage per month
 - **other_services_aggr_value** - Employment and Wage combined (multiplied)
