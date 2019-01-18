@@ -33,23 +33,23 @@ Contributors: Linnea Miller, Aidan Keyes, Mohammed Faysal, Eric Wong
 
 
 ### Libraries and Imports:
--Matplotlib
--Numpy
--Pandas
--Plotly
--Requests
--Time/Datetime
--Json
--Sklearn
--Statsmodels
--Urllib
--Argparse
--Unicodecsv
--OS
--RE
--Lxml
--Sys
--Beautiful Soup
+-Matplotlib <br>
+-Numpy <br>
+-Pandas <br>
+-Plotly <br>
+-Requests <br>
+-Time/Datetime <br>
+-Json <br>
+-Sklearn <br>
+-Statsmodels <br>
+-Urllib <br>
+-Argparse <br>
+-Unicodecsv <br>
+-OS <br>
+-RE <br>
+-Lxml <br>
+-Sys <br>
+-Beautiful Soup <br>
 
 ## Data Dictionary - glassdoor.com
 - **City** - name of city
