@@ -8,8 +8,8 @@ Contributors: Linnea Miller, Aidan Keyes, Mohammed Faysal, Eric Wong
 ### Deliverables:
 
 1. Slideshow (https://docs.google.com/presentation/d/1vFJROQiT1h9lYUYn6DY9kdo7iQ4gsyy8PW1OYvT78lY/edit?usp=sharing)
-2. Adzuna Scraper (https://github.com/EricPmWong/NewLightTechQ11/blob/master/AdunzaScrape.ipynb)
-3. Adzuna Graphs (https://github.com/EricPmWong/NewLightTechQ11/tree/master/Adunza-Graphs)
+2. Adzuna Scraper (https://github.com/EricPmWong/NewLightTechQ11/blob/master/AdzunaScrape.ipynb)
+3. Adzuna Graphs (https://github.com/EricPmWong/NewLightTechQ11/tree/master/Adzuna-Graphs)
 3. BLS Scraper (https://github.com/EricPmWong/NewLightTechQ11/blob/master/BLSscrapeGRAPH.ipynb)
 4. BLS Graphs (https://ericpmwong.github.io/)
 5. BLS Data (https://github.com/EricPmWong/NewLightTechQ11/tree/master/BLS-Data)
