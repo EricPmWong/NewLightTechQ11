@@ -25,8 +25,8 @@ Contributors: Linnea Miller, Aidan Keyes, Mohammed Faysal, Eric Wong
 ### 3rd Party sites/tools:
 
 - [Adzuna API](https://rapidapi.com/baskarm28/api/adzuna?gclid=Cj0KCQiAj4biBRC-ARIsAA4WaFiFc5JhXuZUpQS8Xcr7w-gS4qTdYHd7mbD0WhCFBk_4TmVUap0BqwAaAhlhEALw_wcB)
-- [Bereau of Labor Statistics API](https://www.bls.gov/developers/home.htm)
-- [Glassdoor - WARNING Glassdoor Authroization required to use](https://www.glassdoor.com/index.htm)
+- [Bureau of Labor Statistics API](https://www.bls.gov/developers/home.htm)
+- [Glassdoor - WARNING Glassdoor Authorization required to use](https://www.glassdoor.com/index.htm)
 - [Github](https://www.github.com)
 - [GoogleSlides](https://www.google.com/slides/about/)
 - [glassdoor.com Scrape on scrapehero](https://www.scrapehero.com/how-to-scrape-job-listings-from-glassdoor-using-python-and-lxml/)
