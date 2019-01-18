@@ -39,5 +39,13 @@ Contributors: Linnea Miller, Aidan Keyes, Mohammed Faysal, Eric Wong
 -Json
 -Sklearn
 -Statsmodels
+-Urllib
+-Argparse
+-Unicodecsv
+-OS
+-RE
+-Lxml
+-Sys
+-Beautiful Soup
 
 
